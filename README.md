@@ -8,10 +8,10 @@
 * GRU + WrapCTC
 
 ## 结果
-|方法|Model|Checkpoint|准确率|
-|--|--|--|--|
-|CNN|CNN|checkpoints|98.5 %|
-|LSTM+CTC|-|--|--|--|--|--|--|--|--|
-|LSTM + WrapCTC|-|--|--|--|--|--|--|
-|GRU + CTC|-|--|--|--|--|
-|GRU + WrapCTC|-|--|--|
+|方法|Model|Checkpoint|准确率|updated|
+|--|--|--|--|--|
+|CNN|CNN|checkpoints|98.5 %|20170823|
+|LSTM+CTC|--|--|--|--|
+|LSTM + WrapCTC|--|--|--|--|
+|GRU + CTC|--|--|--|--|
+|GRU + WrapCTC|--|--|--|--|
