@@ -10,7 +10,7 @@
 ## 结果
 |方法|Model|Checkpoint|准确率|
 |--|--|--|--|
-|CNN|98.5 %|--|--|
+|CNN|CNN|checkpoints|98.5 %|
 |LSTM+CTC|-|--|--|--|--|--|--|--|--|
 |LSTM + WrapCTC|-|--|--|--|--|--|--|
 |GRU + CTC|-|--|--|--|--|
