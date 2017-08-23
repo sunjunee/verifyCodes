@@ -10,7 +10,7 @@
 ## 结果
 |方法|准确率|
 |--|--|
-|CNN|-|
+|CNN|98%\pm|
 |LSTM+CTC|-|
 |LSTM + WrapCTC|-|
 |GRU + CTC|-|
